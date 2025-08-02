@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import LoginForm from '@/components/auth/LoginForm';
 import Dashboard from '@/components/dashboard/Dashboard';

@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Eye, EyeOff, Mail, Phone, Camera, Shield, Sparkles } from 'lucide-react';
